@@ -9,17 +9,13 @@
 ## **S3**
 * used for **limitless cloud storage** (google drive or dropbox)
 * S3 can also be setup to work as a hosting service for your entire website (meaning you upload html/css/js/php files into your S3 bucket and run from there) 
-* This works well for static website
+* This works well for a static website
 
 ## **EC2** 
 * Can be used to host your web applications and web servers
 
 ## **RDS**
 * Can be used to host your database
-
-## **S3**
-* Can be used to store your html/css, images, js, jquery.. Pretty much anything can be stored in S3.
-* S3 is like google drive or dropbox
 
 ## **Availability Zones**
 * like physical data centers
