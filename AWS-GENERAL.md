@@ -51,14 +51,14 @@
 ### **Auto Scaling**
 * Auto Scaling helps scale your application as needed
 * Works with CloudWatch and ELB (Elastic Load Balancing - balancing EC2 instances as needed) 
-* Auto scaling working with CloudWatch would allow you to scale up or down based off an CloudWatch alarm triggering (code says CPU over 75% for 10 minutes, add EC2 instance) 
-### **Automatically provision**
-* You can EC2 instances when load increases
-* Using Auto Scaling you will always know that you will have enough capacity for either scenario (low cpu, terminate EC2 instance - high cpu, start EC2 instance) 
-### Shutdown instances when load decreases
-### **Pre-emptive scaling**
-* Example, you can use Auto Scaling to provision an extra ten EC2 instances during a single 24-hr period while doing a promotion. After 24-hrs, it drops back to two EC2 instances. 
-### **Monitor health of EC2 instances**
+  * Auto scaling working with CloudWatch would allow you to scale up or down based off an CloudWatch alarm triggering (code says CPU over 75% for 10 minutes, add EC2 instance) 
+* **Automatically provision**
+  * You can EC2 instances when load increases
+  * Using Auto Scaling you will always know that you will have enough capacity for either scenario (low cpu, terminate EC2 instance - high cpu, start EC2 instance) 
+* Shutdown instances when load decreases
+* **Pre-emptive scaling**
+  * Example, you can use Auto Scaling to provision an extra ten EC2 instances during a single 24-hr period while doing a promotion. After 24-hrs, it drops back to two EC2 instances. 
+* **Monitor health of EC2 instances**
 
 ## **Sources**
 * [Free Udemy Course](https://www.udemy.com/aws-step-functions/learn/v4/content)
