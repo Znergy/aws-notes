@@ -149,3 +149,6 @@ What are **AWS Step Functions**?
 What is **JSON**?
 
 What is **AJAX**?
+
+## A different format
+[Google Document](https://docs.google.com/document/d/1XmwRnmYIlXig2o48ZdHj8M-OLLIXWTRFtYNIypeyZiY/edit?usp=sharing)
