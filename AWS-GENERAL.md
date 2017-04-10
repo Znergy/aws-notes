@@ -26,7 +26,7 @@
 
 ## **NoSQLDatabases**
 * NoSQL stands for ‘Not Only SQL’, meaning that an application can use both relational type of commands and a mix of no sql commands. Both are supported.
-* **SimpleDB **
+* **SimpleDB**
   * excellent for smaller amounts of data 
   * I/O speed can be bad 
   * 10GB limit per table 
